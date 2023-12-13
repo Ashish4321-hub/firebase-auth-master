@@ -1,0 +1,22 @@
+
+  body{
+  background: url(../card1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 800px;
+    
+  }
+ h2{
+    color: purple;
+ }
+ .my{
+    padding: 50px 50px 50px 50px;
+    margin-top: 200px;
+    margin-left: 400px;
+    margin-right: 300px;
+    background-color: #fff;
+ }
+ button{
+    background-color: black;
+    margin: 5px 5px;
+    padding: 3px 10px;
+ }
